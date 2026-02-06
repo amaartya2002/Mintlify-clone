@@ -653,7 +653,7 @@
 
 .card-cta:hover {
   color: #18e299;
-  ttransition: color 0.2s ease;
+  transition: color 0.2s ease;
 }
 
 .card-cta img {
