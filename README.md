@@ -32,39 +32,39 @@ This project recreates the **visual layout and structure** of the Mintlify landi
 
 - Sticky navigation bar with call-to-action buttons
 
-  ![nav-bar](./layout/mintlify-navbar.png)
+  ![nav-bar](/layout/mintlify-navbar.png)
 
 - Hero section with gradient background
 
-  ![hero-section](./layout/mintlify-heroSection.png)
+  ![hero-section](/layout/mintlify-heroSection.png)
 
 - Documentation preview layout with sidebar + main content
 
-  ![document-preview](./layout/mintlify-documentPrivew.png)
+  ![document-preview](/layout/mintlify-documentPrivew.png)
 
 - Feature cards using CSS Grid
 
-  ![featurre-cards](./layout/mintlify-featuresHighlight.png)
+  ![featurre-cards](/layout/mintlify-featuresHighlight.png)
 
 - Assistant preview section
 
-  ![assistant-preview](./layout/mintlify-uiPreview.png)
+  ![assistant-preview](/layout/mintlify-uiPreview.png)
 
 - Enterprise section with split layout
 
-  ![enterprise-section](./layout/mintlify-enterprise.png)
+  ![enterprise-section](/layout/mintlify-enterprise.png)
 
 - Case study cards
 
-  ![case-study-cards](./layout/mintlify-caseStudyCards.png)
+  ![case-study-cards](/layout/mintlify-caseStudyCards.png)
 
 - Pricing CTA
 
-  ![pricing-cta](./layout/mintlify-finalCta.png)
+  ![pricing-cta](/layout/mintlify-finalCta.png)
 
 - Footer with multi-column layout
 
-  ![footer-section](./layout/mintlify-footer.png)
+  ![footer-section](/layout/mintlify-footer.png)
 
 ## How to Run the Project
 
